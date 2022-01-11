@@ -66,7 +66,7 @@ Use `git status` to list all new or modified files that haven't yet been committ
 To format code or text into its own distinct block, use triple backticks.
 
 <pre>
-Some basic Git commands are:
+Some basic Git commands are:.
 ```
 git status
 git add
